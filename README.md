@@ -1,2 +1,2 @@
 # Jovian.ml
-The course "Data Analysis with Python" and "Deep Learning with PyTorch" are separated into two subfolders so it will be more modular than before. Kindly check the original notebooks at https://jovian.ai/learn if i missed something.
+The course "Data Analysis with Python" and "Deep Learning with PyTorch" are separated into two subfolders so it will be more modular than before. The notebooks inside this repository has wide range of topic from data analytics to deep learning. The course "Data Analysis with Python" and "Deep Learning with PyTorch" are separated into two subfolders so it will be more modular than before. Kindly check the original notebooks at https://jovian.ai/learn if i missed something.
